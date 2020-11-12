@@ -1,2 +1,2 @@
-FROM dockersamples/satatic-site
+FROM dockersamples/static-site
 ENV AUTHOR="K Ishikawa"
